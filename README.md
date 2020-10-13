@@ -8,3 +8,4 @@
 [Mapa mental II](https://github.com/patyarvizu/Mineria-de-datos/blob/master/MapaMental_2_1823604.pdf)
 
 [Resumenes](https://github.com/patyarvizu/Mineria-de-datos/blob/master/Resumenes_1823604.pdf)
+[Análisis BD](https://github.com/patyarvizu/Mineria-de-datos/blob/master/AnalisisBD_1823604.pdf)
