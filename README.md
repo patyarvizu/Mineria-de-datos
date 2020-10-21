@@ -10,3 +10,5 @@
 [Resumenes](https://github.com/patyarvizu/Mineria-de-datos/blob/master/Resumenes_1823604.pdf)
 
 [Análisis BD](https://github.com/patyarvizu/Mineria-de-datos/blob/master/AnalisisBD_1823604.pdf)
+
+[Ejercicios Básicos Python](https://github.com/patyarvizu/Mineria-de-datos/blob/master/PythonBasico_1823604.ipynb)
