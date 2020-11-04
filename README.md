@@ -14,3 +14,5 @@
 [Ejercicios Básicos Python](https://github.com/patyarvizu/Mineria-de-datos/blob/master/PythonBasico_1823604.ipynb)
 
 [Avance 1 PIA](https://github.com/HelenaCarrillo/mineriadedatosFCFM/blob/master/Avance1-PIA_01_02.pdf)
+
+[Preparación BD](https://github.com/HelenaCarrillo/mineriadedatosFCFM/blob/master/Base_limpia.ipynb)
