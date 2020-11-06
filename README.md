@@ -17,4 +17,4 @@
 
 [P1-Manipulación de datos](https://github.com/patyarvizu/Mineria-de-datos/blob/master/P1-Manipulaci%C3%B3n%20de%20datos.ipynb)
 
-[Visualización Datos](https://github.com/patyarvizu/Mineria-de-datos/blob/master/P2-Visualizaci%C3%B3n%20de%20Datos.ipynb)
+[P2-Visualización de datos](https://github.com/patyarvizu/Mineria-de-datos/blob/master/P2-Visualizaci%C3%B3n%20de%20Datos.ipynb)
