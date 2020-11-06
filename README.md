@@ -15,6 +15,6 @@
 
 [Avance 1 PIA](https://github.com/HelenaCarrillo/mineriadedatosFCFM/blob/master/Avance1-PIA_01_02.pdf)
 
-[Preparación BD](https://github.com/patyarvizu/Mineria-de-datos/blob/master/P1-PreparacionDatos.ipynb)
+[P1-Manipulación de datos](https://github.com/patyarvizu/Mineria-de-datos/blob/master/P1-Manipulaci%C3%B3n%20de%20datos.ipynb)
 
-[Visualización Datos](https://github.com/patyarvizu/Mineria-de-datos/blob/master/P2-VisualizacionDatos.ipynb)
+[Visualización Datos](https://github.com/patyarvizu/Mineria-de-datos/blob/master/P2-Visualizaci%C3%B3n%20de%20Datos.ipynb)
