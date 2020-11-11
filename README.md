@@ -13,8 +13,10 @@
 
 [Ejercicios Básicos Python](https://github.com/patyarvizu/Mineria-de-datos/blob/master/PythonBasico_1823604.ipynb)
 
-[Avance 1 PIA](https://github.com/HelenaCarrillo/mineriadedatosFCFM/blob/master/Avance1-PIA_01_02.pdf)
+[Avance I PIA](https://github.com/HelenaCarrillo/mineriadedatosFCFM/blob/master/Avance1-PIA_01_02.pdf)
 
 [P1-Manipulación de datos](https://github.com/patyarvizu/Mineria-de-datos/blob/master/P1-Manipulaci%C3%B3n%20de%20datos%20E01-G002.ipynb)
 
 [P2-Visualización de datos](https://github.com/patyarvizu/Mineria-de-datos/blob/master/P2-Visualizaci%C3%B3n%20de%20Datos%20E01-G002.ipynb)
+
+[Avance II PIA](https://github.com/patyarvizu/Mineria-de-datos/blob/master/AvancePIA_II_G002_E01.ipynb)
