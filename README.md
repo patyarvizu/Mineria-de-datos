@@ -22,3 +22,6 @@
 [Avance II PIA](https://github.com/patyarvizu/Mineria-de-datos/blob/master/AvancePIA_II_G002_E01.ipynb)
 
 [Borrador PIA](https://github.com/patyarvizu/Mineria-de-datos/blob/master/BorradorPoster_E01_G002.pdf)
+
+[PIA cógido](https://github.com/patyarvizu/Mineria-de-datos/blob/master/PIA_G002_E01.ipynb)
+
