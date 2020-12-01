@@ -23,6 +23,6 @@
 
 [Borrador PIA](https://github.com/patyarvizu/Mineria-de-datos/blob/master/BorradorPoster_E01_G002.pdf)
 
-[PIA cógido](https://github.com/patyarvizu/Mineria-de-datos/blob/master/PIA_G002_E01.ipynb)
+[PIA cógido](https://github.com/patyarvizu/Mineria-de-datos/blob/master/PIA_E01_G002.ipynb)
 
 [PIA_E01_G002](https://github.com/patyarvizu/Mineria-de-datos/blob/master/PIA_E01_G002.pdf)
